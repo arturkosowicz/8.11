@@ -1,4 +1,4 @@
-function click_function() {
+function clickFunction() {
     var li = document.getElementsByTagName('li').length;
     list.innerHTML += '<li>item ' + li + '</li>';
 }
